@@ -35,3 +35,9 @@ nodejs app.js
 To play using the interface, I recommend opening the page (localhost:8080) in two separate web browsers both with a different wallet on the Kovan Testnet already selected in Metamask before opening the pages (ie: if you log into metamask or change account once the page is loaded, the game won’t work).
 
 You can [watch how to play a game here](https://www.youtube.com/watch?v=2pEkWk-LHmU)
+
+## Remarks
+
+* In order to deploy your own smart contract on the blockchain you will need to write and compile the associated Solidity code (or [another language](https://ethereum.stackexchange.com/questions/350/what-are-the-contract-languages/368#368) ). The details of the Solidity language can be found [here](http://solidity.readthedocs.io/en/v0.4.21/). Online editors and compilers are very useful, see [here](https://remix.ethereum.org/).
+* For this project the Solidity source code is available in TicTacToe.sol
+* Future improvements include adding a prize pool for the players, and also using this pool for the gas for each turn in order to avoid asking for the user approval through Metamask at each turn
