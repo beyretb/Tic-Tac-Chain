@@ -34,7 +34,7 @@ nodejs app.js
 
 To play using the interface, I recommend opening the page (localhost:8080) in two separate web browsers both with a different wallet on the Kovan Testnet already selected in Metamask before opening the pages (ie: if you log into metamask or change account once the page is loaded, the game won’t work).
 
-You can [watch how to play a game here](https://www.youtube.com/watch?v=2pEkWk-LHmU)
+You can [watch how to play a game here](https://youtu.be/iAlfjQSaE6w)
 
 ## Remarks
 
